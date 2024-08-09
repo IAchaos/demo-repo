@@ -2,5 +2,8 @@
 
 
 
- Project description . YaaaY!!
+ Project description . YaaaY 
+
+ I'm learning Git and Github now.
+ 
  
